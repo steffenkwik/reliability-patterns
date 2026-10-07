@@ -8,4 +8,4 @@ The run used a writable temporary directory. These tests check behavior; their e
 python -m unittest -v
 ```
 
-The repository includes a GitHub Actions workflow for Python 3.12. A local pass does not imply a public CI pass; inspect the Actions tab for the actual hosted result.
+The first hosted GitHub Actions run also passed on 8 October 2026, using Ubuntu and Python 3.12: [inspect the run](https://github.com/steffenkwik/reliability-patterns/actions/runs/37674096518). The workflow badge in the README reports the current hosted result.

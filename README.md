@@ -1,5 +1,7 @@
 # Reliability patterns
 
+[![Synthetic event store tests](https://github.com/steffenkwik/reliability-patterns/actions/workflows/tests.yml/badge.svg)](https://github.com/steffenkwik/reliability-patterns/actions/workflows/tests.yml)
+
 An independent Python + SQLite specimen demonstrating how repeated event delivery can produce one persistent access grant per synthetic order.
 
 **Scope:** educational specimen, authored separately with AI coding assistance and invented records. This is not extracted company code, a payment provider integration or a production-ready service.
